@@ -1,0 +1,5 @@
+com\xpersive\web\db\DBconnection.class
+com\xpersive\web\UserDao.class
+com\xpersive\web\bean\User.class
+com\xpersive\web\Test.class
+com\xpersive\web\util\ApplicationProperties.class
